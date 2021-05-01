@@ -5,7 +5,7 @@ parent: The Data
 nav_order: 2
 ---
 
-# Buttons
+# About Geographic Values
 {: .no_toc }
 
 ## Table of contents
