@@ -16,9 +16,14 @@ nav_order: 2
 
 ---
 
+## Missing Values
+
+The hazardous waste data sets are w.r.t. facilities in the states and territories of the U.S.A.  The locations of these facilities are encoded by the `fac_latitude` & `fac_longitude` fields.  However, a number of facilities do not have `fac_latitude` & `fac_longitude` values.  Hence, the latitude & longitude values of such facilities will be determined via `geopy`.  
+
+
 ## Decimals
 
-This exercise is about hazardous waste in the states and territories of the U.S.A.  The locations of these facilities are encoded by the `fac_latitude` & `fac_longitude` fields.  However, a number of facilities do not have `fac_latitude` & `fac_longitude` values.  Hence, the latitude & longitude values of such facilities will be determined via `geopy`.  The decimal latitude & longitude values of
+The decimal latitude & longitude values of
 
 * https://enviro.epa.gov/enviro/EF_METADATA_HTML.tri_page?p_column_name=FAC_LATITUDE
 
@@ -26,7 +31,7 @@ This exercise is about hazardous waste in the states and territories of the U.S.
 
 are determined via the formula
 
-$\qquad DD + \frac{MM}{60} + \frac{SS}{3600}$
+$$\qquad DD + \frac{MM}{60} + \frac{SS}{3600}$$
 
 <img src="https://render.githubusercontent.com/render/math?math={ \qquad \mathstrut{DD} %2B \mathstrut{\large{\frac{MM}{60}}} %2B \mathstrut{\large{\frac{SS}{3600}}} }"></img>
 
