@@ -3,8 +3,7 @@ layout: default
 title: Example
 parent: The Data
 nav_order: 3
-my_variable: header_latex.html:
-- latex
+my_variable: header_latex.html
 ---
 
 {% if page.my_variable %}
