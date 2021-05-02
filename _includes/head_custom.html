@@ -1,0 +1,16 @@
+{% if page.mathematics %}
+    {% if page.mathematics == true %}
+        <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\(', '\\)']]
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+        </script>
+        <script type="text/javascript" id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-svg.js"></script>
+    {% endif %}
+{% endif %}
