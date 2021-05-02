@@ -3,7 +3,8 @@ layout: default
 title: Example
 parent: The Data
 nav_order: 3
-mathematics: true
+mathematics:
+- latex
 ---
 
 # Example
