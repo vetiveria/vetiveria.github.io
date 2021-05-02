@@ -19,7 +19,8 @@ nav_order: 3
 <script>
 MathJax = {
     tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
+        inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\(', '\\)']]
     },
     svg: {
         fontCache: 'global'
