@@ -3,9 +3,13 @@ layout: default
 title: Example
 parent: The Data
 nav_order: 3
-mathematics:
+my_variable: header_latex.html:
 - latex
 ---
+
+{% if page.my_variable %}
+  {% include {{ page.my_variable }} %}
+{% endif %}
 
 # Example
 {: .no_toc }
