@@ -7,7 +7,7 @@ my_variable: latex.html
 ---
 
 {% if page.my_variable %}
-  {% include {{ page.my_variable }} %}
+  {% include_relative {{ page.my_variable }} %}
 {% endif %}
 
 # Example
