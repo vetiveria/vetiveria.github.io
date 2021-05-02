@@ -2,20 +2,6 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-  <script>
-  MathJax = {
-      tex: {
-          inlineMath: [['$$', '$$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\(', '\\)']]
-      },
-      svg: {
-          fontCache: 'global'
-      }
-  };
-  </script>
-  <script type="text/javascript" id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-svg.js"></script>
-
-
   {% unless site.plugins contains "jekyll-seo-tag" %}
     <title>{{ page.title }} - {{ site.title }}</title>
 
@@ -46,6 +32,19 @@
   <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script>
+  MathJax = {
+      tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+          fontCache: 'global'
+      }
+  };
+  </script>
+  <script type="text/javascript" id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-svg.js"></script>
 
   {% seo %}
 
