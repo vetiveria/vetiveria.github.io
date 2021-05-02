@@ -2,6 +2,9 @@ title: "Environment"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 
+# URL
+baseurl: "/vetiveria.github.io"
+url: "https://vetiveria.github.io/"
 
 # LaTeX math equation support
 use_math: true
