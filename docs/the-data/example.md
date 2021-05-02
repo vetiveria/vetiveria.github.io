@@ -3,12 +3,9 @@ layout: default
 title: Example
 parent: The Data
 nav_order: 3
-my_variable: latex.html
 ---
 
-{% if page.my_variable %}
-  {% include_relative {{ page.my_variable }} %}
-{% endif %}
+{% include_relative latex.html %}
 
 # Example
 {: .no_toc }
