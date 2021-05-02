@@ -19,7 +19,7 @@ nav_order: 3
 ## All
 
 {% raw %}
-$$\qquad \frac{1}{N} \sum_{i = 0}^{N - 1} {x_{i}^2}$$
+\$$\qquad \frac{1}{N} \sum_{i = 0}^{N - 1} {x_{i}^2}\$$
 {% endraw %}
 
 Testing ...
