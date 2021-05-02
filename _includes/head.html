@@ -1,3 +1,5 @@
+{% include baseurl %}
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -33,18 +35,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <script  type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-      tex2jax: {
-          inlineMath: [['$$', '$$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\(', '\\)']]
-      }
-  });
-  </script>
-  <script type="text/javascript" id="MathJax-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.1.4/es5/latest.js?config=TeX-MML-AM_CHTML"></script>
-
   {% seo %}
 
-  {% include head_custom.html %}
+  {% include custom.html %}
 
 </head>
