@@ -18,9 +18,11 @@ nav_order: 1
 
 ## The Releases
 
+The releases data sets are extracted & transformed via the packages of repository [https://github.com/vetiveria/spots](https://github.com/vetiveria/spots).  The package directories & data, referenced herein, are relative to the [spots](https://github.com/vetiveria/spots) repository.
+
 package |data |comment
 :--- |:--- |:---
-src/releases | [warehouse/designs](./warehouse/designs) | At present, each release value herein is the total amount of a toxin that has been released thus far in a county.
+src/releases | [warehouse/designs](https://github.com/vetiveria/spots/tree/master/warehouse/designs) | At present, each release value herein is the total amount of a toxin that has been released thus far in a county.
 
 The toxic releases data sets encoded by [TRI_RELEASE_QTY](https://enviro.epa.gov/enviro/ef_metadata_html.ef_metadata_table?p_table_name=tri_release_qty&p_topic=tri) are the *total on-site disposal or other releases* data values.  In a nutshell, it is comparable with the on-site totals w.r.t. [EPA TRI Explorer Release Facility](https://enviro.epa.gov/triexplorer/tri_release.facility).  For example the
 
@@ -48,8 +50,8 @@ The data sets herein are the reference data sets that explain the identifiers wi
 
 package |data |comment
 :--- |:--- |:---
-src/tri | [warehouse/tri](./warehouse/tri) | Each facility's details, e.g., facility unique identifier, latitude, longitude, etc., per state.
-src/naics | [warehouse/naics](./warehouse/naics) | Each facility's set of industry classifications per state.
-src/references | [warehouse/references](./warehouse/references/naics.csv) | The reference sheet of the NAICS unique identifiers; ref. [north american industry classification codes](https://www.census.gov/naics/).
- | [warehouse/references](./warehouse/references/industries.csv) | The reference sheet of EPA's idustry sectors; ref. [industry sectors & codes](https://www.epa.gov/toxics-release-inventory-tri-program/tri-covered-industry-sectors) of the [toxics release inventory program](https://www.epa.gov/toxics-release-inventory-tri-program)
+src/tri | [warehouse/tri](https://github.com/vetiveria/spots/tree/master/warehouse/tri) | Each facility's details, e.g., facility unique identifier, latitude, longitude, etc., per state.
+src/naics | [warehouse/naics](https://github.com/vetiveria/spots/tree/master/warehouse/naics) | Each facility's set of industry classifications per state.
+src/references | [warehouse/references](https://github.com/vetiveria/spots/tree/master/warehouse/references/naics.csv) | The reference sheet of the NAICS unique identifiers; ref. [north american industry classification codes](https://www.census.gov/naics/).
+ | [warehouse/references](https://github.com/vetiveria/spots/tree/master/warehouse/references/industries.csv) | The reference sheet of EPA's idustry sectors; ref. [industry sectors & codes](https://www.epa.gov/toxics-release-inventory-tri-program/tri-covered-industry-sectors) of the [toxics release inventory program](https://www.epa.gov/toxics-release-inventory-tri-program)
  | ... | chemical names
