@@ -3,6 +3,8 @@ layout: default
 title: About Geographic Values
 parent: The Data
 nav_order: 2
+custom_js:
+- latex
 ---
 
 # About Geographic Values
