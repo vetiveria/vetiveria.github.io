@@ -35,6 +35,4 @@ are determined via the formula
 
 $$\qquad DD + \frac{MM}{60} + \frac{SS}{3600}$$
 
-<img src="https://render.githubusercontent.com/render/math?math={ \qquad \mathstrut{DD} %2B \mathstrut{\large{\frac{MM}{60}}} %2B \mathstrut{\large{\frac{SS}{3600}}} }"/>
-
 which converts DDMMSS coordinates to decimal form; note that each fac_latitude/fac_longitude is of the form DDMMSS.
