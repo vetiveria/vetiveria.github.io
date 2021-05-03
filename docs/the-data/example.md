@@ -3,6 +3,8 @@ layout: default
 title: Example
 parent: The Data
 nav_order: 3
+custom_js:
+- latex
 ---
 
 # Example
