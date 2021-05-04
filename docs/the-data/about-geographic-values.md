@@ -30,4 +30,4 @@ Each EPA [fac_latitude](https://enviro.epa.gov/enviro/EF_METADATA_HTML.tri_page?
 
 $$DD + \frac{MM}{60} + \frac{SS}{3600}$$
 
-which converts DDMMSS coordinates to decimal form.
+which converts DDMMSS co$\"{o}$rdinates to decimal form.
