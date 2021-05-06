@@ -1,0 +1,9 @@
+/**
+ * Figure caption
+ */
+figcaption {
+    color: #545252;
+    font-size: 0.9em;
+    padding: 15px;
+    text-align: left;
+}
