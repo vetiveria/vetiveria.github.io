@@ -19,6 +19,6 @@ custom_js:
 
 ---
 
-## In progress
+## In Progress
 
 This page is focused on the features projections steps that preceded all modelling & analysis, and the consequent design matrices.
