@@ -22,7 +22,7 @@ custom_js:
 
 ## Options for Modelling & Analysis
 
-Scientists within the United States' Environmental Protection Agency intermittently investigate the effect of the <span class="tooltip">Toxics Release Inventory<span class="tooltiptext">TRI</span></span> programme's toxic releases measurements on human biological systems & organs. The Agency associates each system, or organ, with a subset of the pollutants that are tracked via the TRI programme, rather than all of them.  Each mapping of system/organ and pollutants can be used for focused investigations, modelling, and/or analysis, i.e., focused on a system/organ and its [posited] associated pollutants.
+Scientists within the United States' Environmental Protection Agency intermittently investigate the effect of the <span class="tooltip">TRI<span class="tooltiptext">Toxics Release Inventory</span></span> programme's toxic releases measurements on human biological systems & organs. The Agency associates each system, or organ, with a subset of the pollutants that are tracked via the TRI programme, rather than all of them.  Each mapping of system/organ and pollutants can be used for focused investigations, modelling, and/or analysis, i.e., focused on a system/organ and its [posited] associated pollutants.
 
 The [risk programs](https://github.com/vetiveria/risk) (in progress) extract the mapping details from the Agency.  The systems/organs are the
 
@@ -32,6 +32,6 @@ The [risk programs](https://github.com/vetiveria/risk) (in progress) extract the
 * Kidney
 * Immune System
 
-And, it also investigates risk<span class="tooltip">wth respect to<span class="tooltiptext">w.r.t.</span></span>
+And, it also investigates risk<span class="tooltip">w.r.t.<span class="tooltiptext">wth respect to</span></span>
 
 * Cancer
