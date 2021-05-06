@@ -2,8 +2,10 @@
  * Figure caption
  */
 figcaption {
-    color: #545252;
+    color: #66555c;
     font-size: 0.9em;
-    padding: 15px;
+    padding: 2px;
+    margin-left:25px;
+    margin-right: 25px;
     text-align: left;
 }
