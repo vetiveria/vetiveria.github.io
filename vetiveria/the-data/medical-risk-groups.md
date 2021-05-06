@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Risk Groups
+title: Medical Risk Groups
 parent: The Data
 nav_order: 3
 custom_js:
 - latex
 ---
 
-# Risk Groups
+# Medical Risk Groups
 {: .no_toc }
 
 ## Table of contents
