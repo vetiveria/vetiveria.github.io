@@ -15,5 +15,5 @@ permalink: /
 
 <p>Testing</p>
 
-<iframe src="https://nbviewer.jupyter.org/github/vetiveria/cluster/blob/master/graphs/eigendecomposition/clusters.html" width="60%" style="border:none;">
+<iframe src="https://nbviewer.jupyter.org/github/vetiveria/cluster/blob/master/graphs/eigendecomposition/clusters.html" width="100%" style="border:none;">
 </iframe>
