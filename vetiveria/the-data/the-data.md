@@ -3,7 +3,7 @@ layout: default
 title: The Data
 nav_order: 3
 has_children: true
-permalink: /docs/the-data
+permalink: /vetiveria/the-data
 ---
 
 # The Data
