@@ -32,6 +32,6 @@ The [risk programs](https://github.com/vetiveria/risk) (in progress) extract the
 * Kidney
 * Immune System
 
-And, it also investigates risk<span class="tooltip">w.r.t.<span class="tooltiptext">wth respect to</span></span>
+And, it also investigates risk <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span>
 
 * Cancer
