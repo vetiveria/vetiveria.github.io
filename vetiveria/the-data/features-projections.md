@@ -22,7 +22,3 @@ custom_js:
 ## In Progress
 
 This page is focused on the features projections steps that preceded all modelling & analysis, and the consequent design matrices.
-
-<p>
-  <iframe id="sample" src="https://raw.githubusercontent.com/vetiveria/cluster/master/graphs/eigendecomposition/clusters.html"></iframe>  
-</p>
