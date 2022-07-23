@@ -61,3 +61,15 @@ src/naics | [warehouse/naics](https://github.com/vetiveria/spots/tree/master/war
 src/references | [warehouse/references](https://github.com/vetiveria/spots/tree/master/warehouse/references/naics.csv) | The reference sheet of the NAICS unique identifiers; ref. [north american industry classification codes](https://www.census.gov/naics/).
  | [warehouse/references](https://github.com/vetiveria/spots/tree/master/warehouse/references/industries.csv) | The reference sheet of EPA's idustry sectors; ref. [industry sectors & codes](https://www.epa.gov/toxics-release-inventory-tri-program/tri-covered-industry-sectors) of the [toxics release inventory program](https://www.epa.gov/toxics-release-inventory-tri-program)
  | ... | chemical names
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
