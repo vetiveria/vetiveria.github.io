@@ -13,10 +13,14 @@ nav_order: 1
 
 1. TOC
 {:toc}
-
+   
 ---
 
+<br>
+
 ## The Releases
+
+<br>
 
 The releases data sets are extracted & transformed via the packages of repository [https://github.com/vetiveria/spots](https://github.com/vetiveria/spots).  The package directories & data, referenced herein, are relative to the [spots](https://github.com/vetiveria/spots) repository.
 
@@ -45,6 +49,8 @@ built via model
 <br>
 
 ## Supplementary Data
+
+<br>
 
 The data sets herein are the reference data sets that explain the identifiers within the releases data sets.  
 
