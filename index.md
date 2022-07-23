@@ -5,7 +5,9 @@ nav_order: 1
 description: "... is focused on the toxic releases data of the United States Environmental Protection Agency"
 permalink: /
 custom_css:
-- figures
+- figures 
+custom_css:
+- tooltips
 ---
 
 # Introductory Notes
@@ -21,7 +23,9 @@ The projects of [vetiveria](https://github.com/vetiveria){:target="\_blank"} are
 <figure>
   <iframe src="https://nbviewer.jupyter.org/github/vetiveria/cluster/blob/master/graphs/eigendecomposition/clusters.html" style="width:100%;height:500px;padding:15;fill:true;border:none;">
   </iframe>
-  <figcaption><b>Preview.</b>  These clusters are due to an ML clustering model based on the cumulative toxics releases values of  ~3300 U.S. counties.  The aim herein?  Investigating the intersection of clusterings, medical risks, and  the actual prevalence of the diseases/disorders associated with the medical risk groups.</figcaption>
+  <figcaption><b>Preview.</b>These clusters are due to an ML clustering model of cumulative toxic releases in  ~3300 U.S. counties.  It is a step towards determining
+              whether toxic release profiles, i.e., cluster membership, are prognostic, medical risk, factors 
+              <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span> the prevalence of a disease/disorder.</figcaption>
 </figure>
 
 
