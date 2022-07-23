@@ -20,9 +20,9 @@ nav_order: 1
 
 ## The Releases
 
-<br>
+Extraction & transformation of the data sets is via the packages of repository [https://github.com/vetiveria/spots](https://github.com/vetiveria/spots).  The package directories & data, referenced herein, are relative to the [spots](https://github.com/vetiveria/spots) repository.
 
-The releases data sets are extracted & transformed via the packages of repository [https://github.com/vetiveria/spots](https://github.com/vetiveria/spots).  The package directories & data, referenced herein, are relative to the [spots](https://github.com/vetiveria/spots) repository.
+<br>
 
 package |data |comment
 :--- |:--- |:---
@@ -50,9 +50,9 @@ built via model
 
 ## Supplementary Data
 
-<br>
+The data sets herein are the reference data sets that explain the identifiers within each toxic release data set.  
 
-The data sets herein are the reference data sets that explain the identifiers within the releases data sets.  
+<br>
 
 package |data |comment
 :--- |:--- |:---
