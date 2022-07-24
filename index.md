@@ -23,7 +23,7 @@ The projects of [vetiveria](https://github.com/vetiveria){:target="\_blank"} are
 <figure>
   <iframe src="https://nbviewer.jupyter.org/github/vetiveria/cluster/blob/master/graphs/eigendecomposition/clusters.html" style="width:100%;height:500px;padding:15;fill:true;border:none;">
   </iframe>
-  <figcaption><b>Preview.</b>  These clusters are due to an ML clustering model of cumulative toxic releases in  ~3300 U.S. counties.  It is a step towards determining whether toxic release profiles, i.e., cluster membership, are prognostic, medical risk, factors <span class="tooltip">w.r.t.<span class="tooltiptext">with respect to</span></span> the prevalence of a disease/disorder.</figcaption>
+  <figcaption><b>Preview.</b>  These clusters are due to an ML clustering model of cumulative toxic releases in  ~3300 U.S. counties.  It is a step towards determining whether toxic release profiles, i.e., cluster membership, are prognostic, medical risk, factors in relation to the prevalence of a disease/disorder.</figcaption>
 </figure>
 
 <br>
