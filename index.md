@@ -5,8 +5,7 @@ nav_order: 1
 description: "... is focused on the toxic releases data of the United States Environmental Protection Agency"
 permalink: /
 custom_css:
-- figures 
-custom_css:
+- figures
 - tooltips
 ---
 
