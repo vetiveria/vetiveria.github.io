@@ -17,7 +17,8 @@ Modelling, analyses, and syntheses of toxic releases.
 
 <br>
 
-The projects of [vetiveria](https://github.com/vetiveria){:target="\_blank"} are focused on the modelling, analyses, syntheses, etc., of the U.S. Environmental Protection Agency's  toxic releases.
+The focus of [vetiveria](https://github.com/vetiveria){:target="\_blank"} is the U.S. Environmental Protection Agency's  toxic releases data.  **After 
+a few seconds an interactive three-dimensional graph will appear below**; read the caption.
 
 <figure>
   <iframe src="https://nbviewer.jupyter.org/github/vetiveria/cluster/blob/master/graphs/eigendecomposition/clusters.html" style="width:100%;height:500px;padding:15;fill:true;border:none;">
